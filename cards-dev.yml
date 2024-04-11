@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Woyo cards related docker APIs - env development "
+  message: "Welcome to Woyo cards service related docker APIs - env development - test use webhook "
   contactDetails:
     name: "Ian Lombu - Software Engineer"
     email: "ianlombu@woyo.com"
