@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to Woyo accounts related docker APIs - env dev "
   contactDetails:
-    name: "Ian Lombu - Developer"
+    name: "Ian Lombu - Software Engineer"
     email: "ianlombu@woyo.com"
   onCallSupport:
     - 081234567890
