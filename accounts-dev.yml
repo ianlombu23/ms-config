@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Woyo accounts related docker APIs - env dev "
+  message: "Welcome to Woyo accounts related docker APIs - env development "
   contactDetails:
     name: "Ian Lombu - Software Engineer"
     email: "ianlombu@woyo.com"
