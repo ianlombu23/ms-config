@@ -2,9 +2,9 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Woyo loans related docker APIs - env development - git webhook "
+  message: "Welcome to Woyo loans related docker APIs - env development - git update use webhook "
   contactDetails:
-    name: "Ian Lombu - Software Engineer"
+    name: "Ian Lombu - Backend Developer"
     email: "ianlombu@woyo.com"
   onCallSupport:
     - 081234567890
