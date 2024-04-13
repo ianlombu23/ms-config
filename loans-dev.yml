@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Woyo loans related docker APIs - env development - git "
+  contactDetails:
+    name: "Ian Lombu - Software Engineer"
+    email: "ianlombu@woyo.com"
+  onCallSupport:
+    - 081234567890
+    - 089876543231
